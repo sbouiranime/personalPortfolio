@@ -1,4 +1,4 @@
-import logo from "../assets/Rslogo.jpg";
+import logo from "../assets/RSlogo.jpg";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaKaggle } from "react-icons/fa";
